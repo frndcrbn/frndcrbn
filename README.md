@@ -3,7 +3,9 @@
 DevOps & Full Stack Developer | Docker · Nginx · Linux · Odoo · CodeIgniter
 
 🔭 Currently working at **RBT Consulting Corp.**
+
 🌐 Portfolio: [frndcrbn.netlify.app](https://frndcrbn.netlify.app/)
+
 📫 Twitter: [@__fernad](https://x.com/__fernad)
 
 ## 🛠 Tech Stack
