@@ -38,5 +38,5 @@ infrastructure and full stack web solutions.
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frndcrbn&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frndcrbn)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frndcrbn&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frndcrbn&layout=compact&theme=default&hide_border=true)
