@@ -34,9 +34,3 @@ infrastructure and full stack web solutions.
 - 🐦 Twitter/X: [@__fernad](https://x.com/__fernad)
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/fernad-corbin)
 - 💻 GitHub: [github.com/frndcrbn](https://github.com/frndcrbn)
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frndcrbn&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frndcrbn&layout=compact&theme=default&hide_border=true)
