@@ -32,5 +32,5 @@ infrastructure and full stack web solutions.
 ## 📬 How to reach me?
 - 🌐 Portfolio: [frndcrbn.netlify.app](https://frndcrbn.netlify.app/)
 - 🐦 Twitter/X: [@__fernad](https://x.com/__fernad)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/fernad-corbin)
+- 💼 LinkedIn: [linkedin.com/in/fernad-corbin](https://www.linkedin.com/in/fernad-corbin)
 - 💻 GitHub: [github.com/frndcrbn](https://github.com/frndcrbn)
